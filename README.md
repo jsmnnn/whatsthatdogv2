@@ -25,8 +25,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![whatsthatdogv2](https://github.com/jsmnnn/whatsthatdogv2/assets/115364784/3a690ef4-5f2f-4aac-8ef9-c4deb2e0a4b7)
 
-
+Gif created with Kap
 ## Notes
 
 Currently still struggling with flipping the cards. Will be updating.
