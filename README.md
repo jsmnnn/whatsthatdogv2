@@ -2,7 +2,7 @@
 
 Submitted by: Jasmine Santiago
 
-This web app: An upgrading version of What's That Dog
+This web app: An upgraded version of What's That Dog
 
 Time spent: 5 hours spent in total
 
